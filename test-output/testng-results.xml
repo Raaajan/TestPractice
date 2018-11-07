@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30" started-at="2018-10-23T18:45:48Z" finished-at="2018-10-23T18:45:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30" started-at="2018-10-23T18:45:48Z" finished-at="2018-10-23T18:45:48Z">
+      <class name="test.Annotationc1">
+        <test-method status="PASS" signature="c1beforeMethod()[pri:0, instance:test.Annotationc1@193948d]" name="c1beforeMethod" is-config="true" duration-ms="7" started-at="2018-10-24T00:15:48Z" finished-at="2018-10-24T00:15:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c1beforeMethod -->
+        <test-method status="PASS" signature="c2f3()[pri:0, instance:test.Annotationc1@193948d]" name="c2f3" duration-ms="5" started-at="2018-10-24T00:15:48Z" finished-at="2018-10-24T00:15:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c2f3 -->
+        <test-method status="PASS" signature="c1afterMethod()[pri:0, instance:test.Annotationc1@193948d]" name="c1afterMethod" is-config="true" duration-ms="0" started-at="2018-10-24T00:15:48Z" finished-at="2018-10-24T00:15:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c1afterMethod -->
+      </class> <!-- test.Annotationc1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
